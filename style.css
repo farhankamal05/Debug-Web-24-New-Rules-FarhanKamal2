@@ -1,0 +1,31 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+/* added a custom font from google */
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;700&family=Playpen+Sans:wght@100;400&display=swap');
+  
+body {
+  background: #4d9aff;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-family: 'Playpen Sans', cursive;
+  text-align: center;
+}
+
+/* made the heading light and have a blue */
+h1{
+  color: #2e46ff;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+h3{
+  color: #80fffd;
+}
+
+/* made the p smaller */
+
+p{
+  color: #ffffff;
+  font-size: 10%;
+}
